@@ -1,0 +1,64 @@
+{
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontLigatures": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "none",
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "explorer.sortOrder": "type",
+    "editor.cursorStyle": "block",
+    "files.trimFinalNewlines": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "security.workspace.trust.enabled": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "terminal.external.linuxExec": "xfce-terminal",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "terminal.explorerKind": "external",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "git.suggestSmartCommit": false,
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": false,
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Ocean",
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "git.autofetch": true,
+    "telemetry.telemetryLevel": "off",
+    "editor.fontSize": 18,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "window.zoomLevel": 1
+}
